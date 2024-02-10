@@ -90,20 +90,17 @@ ul a:hover{
 .main{
     display: flex;
     justify-content: space-around;
-
-    margin-top: 92px;
-     
-    
+    margin-top: 80px;
 }
 .main img{
     margin-right: -111px;
-    margin-top: 100px;
+    margin-top: 0px;
     
 }
 
-
 .text h1{
-    font-size:58px;
+    font-size:48px;
+    margin-top: 40px;
 }
 .text h3{
     margin-top: 11px;
@@ -134,12 +131,12 @@ ul a:hover{
     font-size: 26px;
 }
 .women {
-    padding-top: 140px;
-    margin-top: 50px;
+    padding-top: 60px;
+    margin-top: 10px;
 }
 
 .man{
-    padding-top:100px;
+    padding-top:60px;
 }
 .shop{
     display: flex;
